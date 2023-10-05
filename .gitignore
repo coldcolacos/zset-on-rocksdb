@@ -1,0 +1,6 @@
+benchmark/build/*
+build/*
+examples/build/*
+tests/build/*
+tests/googletest*
+!*md
